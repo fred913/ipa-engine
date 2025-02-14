@@ -1,9 +1,9 @@
 [tool.poetry]
 name = "ipa-engine"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Sheng Fan <fredtools999@gmail.com>"]
-license = "GPL-3.0-only"
+license = "Apache-2.0"
 readme = "README.md"
 include = ["ipa_engine"]
 
